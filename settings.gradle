@@ -1,0 +1,3 @@
+rootProject.name='DelControlImage'
+include ':app'
+include ':delcontrolimage_lib'
